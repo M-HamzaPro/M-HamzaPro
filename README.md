@@ -43,7 +43,7 @@
 
     <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
-    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
+    <img src="https://banner2.cleanpng.com/20180330/wbw/kisspng-android-studio-integrated-development-environment-android-5abdfba87a0be9.3615427715224001684999.jpg" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 
 
@@ -96,5 +96,5 @@
 
 
 ------
-[Mahdiiye](https://github.com/M-HamzaPro)
+[M.Hamza](https://github.com/M-HamzaPro)
 Last Edited on: 02/10/2023
